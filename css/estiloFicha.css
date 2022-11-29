@@ -1,0 +1,174 @@
+/*CSS da Ficha.HTML*/
+.main {
+  background: none;
+  background-size: cover;
+  height: 92vh;
+  background-color: #fff;
+}
+
+.ficha {
+  position: fixed;
+}
+
+.box {
+  color: black;
+  position: absolute;
+  top: 510px;
+  left: 1030px;
+  transform: translate(-50%, -50%);
+  border-radius: 25px;
+  margin-top: 130px;
+}
+
+.img {
+  opacity: 0.8;
+  margin-top: 75px;
+  width: 1580px;
+  height: 810px;
+  margin-left: 180px;
+}
+
+.imgLogo {
+  margin-top: 150px;
+  width: 700px;
+  height: 600px;
+  border-radius: 1900px;
+  opacity: 0.4;
+}
+
+fieldset {
+  border: 3px solid black;
+  padding: 10px;
+  border-radius: 18px;
+  position: relative;
+  height: 780px;
+  width: 1150px;
+  margin-left: -390px;
+}
+
+.primeiro {
+  border: 3px solid rgb(10, 17, 17);
+  height: 720px;
+  top: -140px;
+}
+
+legend {
+  padding: 10px;
+  text-align: center;
+  border-radius: 8px;
+  font-size: 25px;
+  color: red;
+}
+
+.inputUser {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  color: black;
+  font-size: 18px;
+  width: 300px;
+  letter-spacing: 2px;
+}
+
+.inputUser2 {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  color: black;
+  font-size: 17px;
+  width: 150px;
+  letter-spacing: 2px;
+  align-items: center;
+  justify-content: center;
+}
+.inputUser3 {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  color: black;
+  font-size: 15px;
+  width: 50px;
+  letter-spacing: 2px;
+}
+.inputUser4 {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  color: black;
+  font-size: 18px;
+  width: 280px;
+  letter-spacing: 2px;
+}
+
+.inputUser5 {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  color: black;
+  font-size: 15px;
+  width: 230px;
+  letter-spacing: 2px;
+}
+
+.inputUser6 {
+  background: none;
+  border: none;
+  border-bottom: 1px solid black;
+  outline: none;
+  color: black;
+  font-size: 15px;
+  width: 120px;
+  letter-spacing: 2px;
+}
+
+.labelInput {
+  font-size: 15px;
+}
+
+.NS_SUS {
+  margin-left: 60px;
+}
+
+#data_nascimento {
+  border: none;
+  padding: 6px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 15px;
+}
+#data_resultado {
+  border: none;
+  padding: 6px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 15px;
+}
+#data_exame {
+  border: none;
+  padding: 6px;
+  border-radius: 10px;
+  outline: none;
+  font-size: 15px;
+}
+.end {
+  border: 3px solid rgb(10, 17, 17);
+  padding: 10px;
+  border-radius: 25px;
+  width: 1100px;
+  margin-left: 10px;
+  height: 200px;
+}
+
+.end2 {
+  border: 3px solid rgb(10, 17, 17);
+  padding: 10px;
+  border-radius: 25px;
+  width: 1100px;
+  margin-left: 10px;
+  height: 250px;
+}
